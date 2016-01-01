@@ -1,0 +1,4 @@
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\RemoteServer C#\GamespyHostnameChanger\GamespyHostnameChanger\bin\Debug\memwrapper.dll
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\RemoteServer C#\GamespyHostnameChanger\GamespyHostnameChanger\bin\Debug\memwrapper.pdb
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\RemoteServer C#\GamespyHostnameChanger\GamespyHostnameChanger\obj\Debug\memwrapper.dll
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\RemoteServer C#\GamespyHostnameChanger\GamespyHostnameChanger\obj\Debug\memwrapper.pdb
